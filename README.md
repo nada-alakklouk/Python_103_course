@@ -40,4 +40,4 @@ An asset management pipeline tracing product lifecycles from acquisition through
 
 ## 👤 Developed by:
 * **Nada Alaklook**
-* 🔗 [Connect with me on LinkedIn](https://linkedin.com/in/nada-alaklook-725049252)
+* 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/nada%20alakluk-725049252)
